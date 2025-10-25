@@ -1,16 +1,5 @@
 [
     {
-        "id": 2,
-        "date": "Sun Oct 26 2025",
-        "timestamp": 1761422623369,
-        "isTask": false,
-        "description": "Mergesort worse-case O(nlogn)",
-        "isStarred": false,
-        "boards": [
-            "My Board"
-        ]
-    },
-    {
         "id": 3,
         "date": "Sun Oct 26 2025",
         "timestamp": 1761422705196,
